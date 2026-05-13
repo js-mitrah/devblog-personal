@@ -123,11 +123,11 @@
       "date": "",
       "title": "Introducing Webview UI in Bolt UXP: Build Richer Adobe Plugins Faster",
       "author": "Ingo Eichel",
-      "description": "Building modern, high‑quality user interfaces has long been one of the biggest challenges in UXP plugin development. Complex layouts, animations, and consistent behavior across hosts ...",
+      "description": "https://youtu.be/yyQLXh-kCGY Building modern, high‑quality user interfaces has long been one of the biggest challenges in UXP plugin development. Complex layouts, animations, and consistent behavior across ...",
       "tags": "[\"Adobe-UXP\",\"adobe-creative-cloud-plugins\",\"plugin-development\",\"extensibility\"]",
       "imageAlt": "",
       "robots": "",
-      "lastModified": "1778664363",
+      "lastModified": "1778681177",
       "Removed from Medium?": "",
       "sortDateTimestamp": "1772755200",
       "sortDate": "2026-03-06",
@@ -146,7 +146,7 @@
       "tags": "[\"adobe-express\",\"adobe-express-add-ons\",\"adobe-express-addons\",\"add-on-development\",\"extensibility\"]",
       "imageAlt": "",
       "robots": "",
-      "lastModified": "1778657939",
+      "lastModified": "1778680587",
       "Removed from Medium?": "",
       "sortDateTimestamp": "1772582400",
       "sortDate": "2026-03-04",
@@ -222,7 +222,7 @@
       "tags": "[\"adobe-express\",\"adobe-express-add-ons\",\"adobe-express-addons\",\"add-on-development\",\"extensibility\",\"hackathon\"]",
       "imageAlt": "",
       "robots": "",
-      "lastModified": "1772009263",
+      "lastModified": "1778679976",
       "Removed from Medium?": "",
       "sortDateTimestamp": "1771891200",
       "sortDate": "2026-02-24",
@@ -849,7 +849,7 @@
       "tags": "[\"Cpp\",\"cpp-at-adobe\",\"adobe-stlab\",\"adobe-engineering\",\"adobe\"]",
       "imageAlt": "Tokyo cityscape",
       "robots": "",
-      "lastModified": "1771628576",
+      "lastModified": "1778684899",
       "Removed from Medium?": "",
       "sortDateTimestamp": "1713744000",
       "sortDate": "2024-04-22",
@@ -1658,5 +1658,5 @@
     "adobeApp"
   ],
   ":type": "sheet",
-  "generatedAt": "2026-05-13T09:46:54.492Z"
+  "generatedAt": "2026-05-13T15:45:01.632Z"
 }
