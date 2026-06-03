@@ -5,7 +5,7 @@
   "data": [
     {
       "path": "/en/publish/2026/06/3-risk-checks-for-developers-before-vibe-code-becomes-a-production-problem",
-      "image": "/en/publish/2026/06/media_122e43cda4daa5a6994132067cf781af53517f993.png?width=1200&format=pjpg&optimize=medium",
+      "image": "/en/publish/2026/06/media_1a0f09fc50e451fb8b7cf688b7d6e71a810a1742d.png?width=1200&format=pjpg&optimize=medium",
       "date": "",
       "title": "3 Risk Checks for Developers Before Vibe Code Becomes a Production Problem",
       "author": "Justin Taylor",
@@ -13,7 +13,7 @@
       "tags": "[\"Vibe coding\"]",
       "imageAlt": "",
       "robots": "",
-      "lastModified": "1780409372",
+      "lastModified": "1780493966",
       "Removed from Medium?": "",
       "sortDateTimestamp": "1780531200",
       "sortDate": "2026-06-04",
@@ -1525,7 +1525,7 @@
     },
     {
       "path": "/en/publish/2026/03/image-behavior-test-1080-720",
-      "image": "/default-meta-image.png?width=1200&format=pjpg&optimize=medium",
+      "image": "/vi/jAy3rvc_5pg/maxresdefault.jpg",
       "date": "",
       "title": "Image Cropping & Layout Behavior Test – 1080 × 720",
       "author": "Devblogs",
@@ -1533,7 +1533,7 @@
       "tags": "[]",
       "imageAlt": "",
       "robots": "",
-      "lastModified": "1780471260",
+      "lastModified": "1780485327",
       "Removed from Medium?": "",
       "sortDateTimestamp": "1584835200",
       "sortDate": "2020-03-22",
@@ -1785,5 +1785,5 @@
     "mediaUrl"
   ],
   ":type": "sheet",
-  "generatedAt": "2026-06-03T09:55:15.713Z"
+  "generatedAt": "2026-06-03T14:46:20.588Z"
 }
